@@ -20,3 +20,6 @@ An Object-Oriented Java application that simulates football matches between two 
 3. Compile the Java files:
    ```bash
    javac *.java
+4. Run the application:
+   ```bash
+   java Main
